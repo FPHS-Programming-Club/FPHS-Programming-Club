@@ -1,2 +1,4 @@
 # FPHS-Programming-Club
-FPHS Programming Club is a... uh... umm... programming club.
+Welcome to the FPHS Programming Club!
+
+TODO: some sort of readme
