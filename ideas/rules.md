@@ -9,8 +9,6 @@ Repositories made in the club should be under the organization.
 - C#
 - Lua (something to learn)
 - Java
-- Javascript
+- Javascript / Typescript (something to learn)
 - Python
 - Rust (we're gonna need to find someone who knows it well)
-- Typescript (something to learn)
-- Visual Basic
