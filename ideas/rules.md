@@ -13,3 +13,4 @@ Repositories made in the club should be under the organization.
 - Python
 - Rust
 - Visual Basic
+- ARM/x86_64 Assembly
