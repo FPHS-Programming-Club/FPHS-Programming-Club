@@ -6,6 +6,8 @@ The FPHS Programming Club is a club at Forest Park High School that is currently
 
 Meeting Types: Help (If someone needs help for programming in some way and is able to, stay after on Monday and come to Mr. Friebe's room to get help!) & "Official" (We will go over everyone's progress and do some programming. These are also days in which we will be able to help)
 
+Current Theme: Gag Programs (Serves no good purpose other than to be funny)
+
 Current Schedule: Every other Friday from 2:15-3:15, Monday of that week for review
 
 Next Review Day: Monday, March 6, 2023
