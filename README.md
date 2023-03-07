@@ -10,7 +10,7 @@ Current Theme: Gag Programs (Serves no good purpose other than to be funny)
 
 Current Schedule: Every other Friday from 2:15-3:15, Monday of that week for review
 
-Next Review Day: Monday, March 6, 2023
+Next Review Day: Monday, March 20, 2023
 
 Next "Official" Meeting: Friday, March 10, 2023
 
