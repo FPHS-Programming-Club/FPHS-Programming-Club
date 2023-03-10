@@ -4,15 +4,15 @@ Welcome to the FPHS Programming Club!
 The FPHS Programming Club is a club at Forest Park High School that is currently a work-in-progress. We hope to create a club where you can easily learn most commonly-used programming languages with different types of development, including game design, web design, and more, in a safe and easily accessible community!
 
 
-Meeting Types: Help (If someone needs help for programming in some way and is able to, stay after on Monday and come to Mr. Friebe's room to get help!) & "Official" (We will go over everyone's progress and do some programming. These are also days in which we will be able to help)
+Meeting Types: Language (no more than 2 per year, currently probably doing C++) & Game Dev (We will be creating a game that we will try to push out at the end of the year)
 
-Current Theme: Gag Programs (Serves no good purpose other than to be funny)
+Current Theme: Game Dev/Collab (Unity) on Fridays & Learning languages on Mondays
 
-Current Schedule: Every other Friday from 2:15-3:15, Monday of that week for review
+Current Schedule: Every other Friday from 2:15-3:15, Monday of that week
 
-Next Review Day: Monday, March 20, 2023
+Next Language Day: Monday, March 20, 2023
 
-Next "Official" Meeting: Friday, March 10, 2023
+Next Game Dev Meeting: Friday, March 24, 2023
 
 
 - Sponsor: Mr. Friebe
@@ -21,6 +21,3 @@ Next "Official" Meeting: Friday, March 10, 2023
 
 
 Discord Link: https://discord.gg/s8vDVaCVpq
-
-
-TODO: readme WIP
